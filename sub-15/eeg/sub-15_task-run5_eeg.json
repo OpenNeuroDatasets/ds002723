@@ -1,0 +1,10 @@
+{
+	"TaskName": "Run",
+	"SamplingFrequency": 1000,
+	"SoftwareFilters": "n/a",
+	"EEGChannelCount": 32,
+	"ECGChannelCount": 1,
+	"MiscChannelCount": 4,
+	"EEGReference": "placed on FCz",
+	"PowerLineFrequency": 50
+}

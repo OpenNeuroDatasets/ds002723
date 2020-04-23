@@ -1,0 +1,47 @@
+{
+	"1":
+	{
+		"LongName":	"LVLA",
+		"Description": "Low valence, low arousal targetted affect, start of trial"
+	},
+	"2":
+	{
+		"LongName":	"NVLA",
+		"Description": "Neutral valence, low arousal targetted affect, start of trial"
+	},
+	"3":
+	{
+		"LongName":	"HVLA",
+		"Description": "High valence, low arousal targetted affect, start of trial"
+	},
+	"4":
+	{
+		"LongName":	"LVNA",
+		"Description": "Low valence, neutral arousal targetted affect, start of trial"
+	},
+	"5":
+	{
+		"LongName":	"NVNA",
+		"Description": "Neutral valence, neutral arousal targetted affect, start of trial"
+	},
+	"6":
+	{
+		"LongName":	"HVNA",
+		"Description": "High valence, neutral arousal targetted affect, start of trial"
+	},
+	"7":
+	{
+		"LongName":	"LVHA",
+		"Description": "Low valence, high arousal targetted affect, start of trial"
+	},
+	"8":
+	{
+		"LongName":	"NVHA",
+		"Description": "Neutral valence, high arousal targetted affect, start of trial"
+	},
+	"9":
+	{
+		"LongName":	"HVHA",
+		"Description": "High valence, high arousal targetted affect, start of trial"
+	}
+}
